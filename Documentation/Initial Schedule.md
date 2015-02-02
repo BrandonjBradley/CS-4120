@@ -57,28 +57,41 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 -	start on algorithm?
 
 <b>Fadi</b> 
+
 -	start on algorithm?
 
 <b>Garrett</b>
+
 –	Finish GUI prototype #2
 
 #Week 4
-All
-	Select best GUI design choices and send email to Jeff for approval/ suggestions.
-	Start working on main program
-Carl 
+<b>ALL</b>
+1.	Select best GUI design choices and send email to Jeff for approval/ suggestions.
+2.	Start working on main program.
+
+<b>Carl</b>
+
 –	 Test Plan
-Brian 
+
+<b>Brian</b>
+
 –	Start Use case Scenarios
-Brandon
+
+<b>Brandon</b>
+
 -	start on algorithm?
-Fadi 
+
+<b>Fadi</b>
+
 -	start on algorithm?
-Garrett
+
+<b>Garrett</b>
+
 –	start on GUI for input
 
 #Week 5
-All
+<b>ALL</b>
+
 -	Start on requirements document
 Carl 
 –	 Finalize Test Plan
