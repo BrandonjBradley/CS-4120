@@ -97,7 +97,7 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>Carl</b>
 
-– Finalize Test Plan
+- Finalize Test Plan
 
 <b>Brian</b>
 
