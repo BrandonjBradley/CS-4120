@@ -166,9 +166,11 @@ Fadi
 Garrett
 
 #Week 9
-All
--	Have prototype or final done
--	Start lessons learned if we haven’t already.
+<b>ALL</b>
+
+- Have prototype or final done
+- Start lessons learned if we haven’t already.
+
 Carl 
 Brian 
 Brandon
