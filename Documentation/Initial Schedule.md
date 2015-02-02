@@ -13,7 +13,7 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 -	Install VB
 
 #Week 2
-ALL:
+<b>ALL</b>:
 	Start on requirements document
 CARL:
 –	 Start on test plan
