@@ -46,23 +46,23 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>Carl</b>
 
-–	 Test Plan
+- Test Plan
 
 <b>Brian</b>
 
-–	Finish GUI prototype #1
+- Finish GUI prototype #1
 
 <b>Brandon</b>
 
--	start on algorithm?
+- start on algorithm?
 
 <b>Fadi</b> 
 
--	start on algorithm?
+- start on algorithm?
 
 <b>Garrett</b>
 
-–	Finish GUI prototype #2
+- Finish GUI prototype #2
 
 #Week 4
 <b>ALL</b>
@@ -71,28 +71,28 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>Carl</b>
 
-–	 Test Plan
+- Test Plan
 
 <b>Brian</b>
 
-–	Start Use case Scenarios
+- Start Use case Scenarios
 
 <b>Brandon</b>
 
--	start on algorithm?
+- start on algorithm?
 
 <b>Fadi</b>
 
--	start on algorithm?
+- start on algorithm?
 
 <b>Garrett</b>
 
-–	start on GUI for input
+- start on GUI for input
 
 #Week 5
 <b>ALL</b>
 
--	Start on requirements document
+- Start on requirements document
 Carl 
 –	 Finalize Test Plan
 Brian 
