@@ -113,7 +113,7 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>Garrett</b>
 
-– start on GUI for input
+- start on GUI for input
 
 #Week 6
 <b>ALL</b>
