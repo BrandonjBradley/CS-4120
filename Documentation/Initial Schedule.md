@@ -1,7 +1,3 @@
-Note: This is not actually filled in. So fill in how you think the weeks are best laid out. I started with week 2 since that is next week (Feb. 1 - 7) based on what was said in class. 
-
-Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a good idea. Maybe a working prototype by the end of week 7 so we have a week to tweak any minor things.
-
 #Week 1
 1.	Create schedule
 2.	Create a GitHub repsitory
@@ -27,11 +23,11 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>Brandon</b>
 
-- Start on algorithm? Research  maximizing algorithms?
+- TBD
 
 <b>Fadi</b>
 
-- Start on algorithm? Research  maximizing algorithms?
+- Sort out the (existing) program rules and put them in a logical form.
 
 <b>Garrett</b>
 
@@ -54,11 +50,11 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>Brandon</b>
 
-- start on algorithm?
+- TBD
 
 <b>Fadi</b> 
 
-- start on algorithm?
+- Research algorithms for similar, previously solved, problems.
 
 <b>Garrett</b>
 
@@ -80,11 +76,11 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>Brandon</b>
 
-- start on algorithm?
+- TBD
 
 <b>Fadi</b>
 
-- start on algorithm?
+- Start the implementation process.
 
 <b>Garrett</b>
 
@@ -105,11 +101,11 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>Brandon</b>
 
-- start on algorithm?
+- TBD
 
 <b>Fadi</b>
 
-- start on algorithm?
+- Implementation continues
 
 <b>Garrett</b>
 
@@ -126,15 +122,15 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>Brian</b>
 
-– Help where needed. Coding, testing... etc
+– Help where needed (Coding and/or testing)
 
 <b>Brandon</b>
 
-- start on algorithm?
+- TBD
 
 <b>Fadi</b>
 
-- start on algorithm?
+- Implementation Continues
 
 <b>Garrett</b>
 
@@ -152,15 +148,15 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>Brian</b>
 
-– Help where needed. Coding, testing... etc
+– Help where needed (Coding and/or testing)
 
 <b>Brandon</b>
 
--	start on algorithm?
+-	TBD
 
 <b>Fadi</b>
 
--	start on algorithm?
+-	Release a debug version of the project for testing purposes
 
 <b>Garrett</b>
 
@@ -181,14 +177,19 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>Brandon</b>
 
+- TBD
+- 
 <b>Fadi</b>
 
+1. Fix all the bugs found
+2. Release the first stable version (fingres crossed) of the project
+
 <b>Garrett</b>
+
+- TBD
 
 #Week 9
 <b>ALL</b>
 
 1. Have prototype or final done
 2. Start lessons learned, if we haven’t already.
-
-> Note: Week doesn’t look like a real word anymore. 
