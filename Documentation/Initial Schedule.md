@@ -118,11 +118,11 @@
 
 <b>Carl</b>
 
-– Start testing of application
+- Start testing of application
 
 <b>Brian</b>
 
-– Help where needed (Coding and/or testing)
+- Help where needed (Coding and/or testing)
 
 <b>Brandon</b>
 
