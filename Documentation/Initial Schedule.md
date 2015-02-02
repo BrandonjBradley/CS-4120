@@ -19,7 +19,7 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>CARL</b>:
 
--Start on test plan
+- Start on test plan
 
 Brian 
 –	Start working on GUI prototype #1
