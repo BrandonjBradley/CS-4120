@@ -7,13 +7,13 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 2.	Create a GitHub repsitory
  -	add collaborators
  -	make a first commit
-3.	Contact advisor:
+3.	Contact advisor
  -	Ask for algorithm rules clarification
- -	Investigate which version of Microsoft office muat be supported
+ -	Investigate which version(s) of Microsoft office must be supported
 4.	Install Visual Studio
 
 #Week 2
-<b>ALL</b>:
+<b>ALL</b>
 
 -	Start on requirements document
 
@@ -38,19 +38,28 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 –	Start working on GUI prototype #2
 
 #Week 3
-All
-	Finish requirements document
-	Job update Excel sheet
-	Applicant Excel sheet
-Carl 
+<b>ALL</b>
+
+1.	Finish requirements document
+2.	Job update Excel sheet
+3.	Applicant Excel sheet
+
+<b>Carl</b>
+
 –	 Test Plan
-Brian 
+
+<b>Brian</b>
+
 –	Finish GUI prototype #1
-Brandon
+
+<b>Brandon</b>
+
 -	start on algorithm?
-Fadi 
+
+<b>Fadi</b> 
 -	start on algorithm?
-Garrett
+
+<b>Garrett</b>
 –	Finish GUI prototype #2
 
 #Week 4
