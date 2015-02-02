@@ -85,7 +85,7 @@
 
 <b>Garrett</b>
 
-- Start on GUI for input
+- Start on GUI for input/output
 
 #Week 5
 <b>ALL</b>
@@ -110,7 +110,7 @@
 
 <b>Garrett</b>
 
-- Start on GUI for input
+- Finish GUI for input/output
 
 #Week 6
 <b>ALL</b>
@@ -135,7 +135,7 @@
 
 <b>Garrett</b>
 
-- Start on GUI for input
+- Help where needed (Coding and/or testing)
 
 #Week 7
 
@@ -161,7 +161,7 @@
 
 <b>Garrett</b>
 
-- Start on GUI for input
+- Help where needed (Coding and/or testing)
 
 #Week 8
 <b>ALL</b>
@@ -187,7 +187,7 @@
 
 <b>Garrett</b>
 
-- TBD
+- Portfolio setup with all presentable documentation
 
 #Week 9
 <b>ALL</b>
