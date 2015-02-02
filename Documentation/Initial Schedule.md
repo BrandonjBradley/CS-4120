@@ -95,13 +95,16 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 - Start on requirements document
 
-<b>Carl</b> 
+<b>Carl</b>
+
 – Finalize Test Plan
 
 <b>Brian</b>
-– Finish Use case Scenarios
+
+- Finish Use case Scenarios
 
 <b>Brandon</b>
+
 - start on algorithm?
 
 <b>Fadi</b>
