@@ -9,27 +9,32 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
  -	make a first commit
 3.	Contact advisor:
  -	Ask for algorithm rules clarification
- -	Investigate which version of Microsoft office muat be supported.
+ -	Investigate which version of Microsoft office muat be supported
 4.	Install Visual Studio
 
 #Week 2
 <b>ALL</b>:
 
-1.	Start on requirements document
+-	Start on requirements document
 
 <b>CARL</b>:
 
-1.	Start on test plan
+-	Start on test plan
 
 <b>Brian</b> 
 
-1.	Start working on GUI prototype #1
+-	Start working on GUI prototype #1
 
-Brandon
+<b>Brandon</b>
+
 -	Start on algorithm? Research  maximizing algorithms?
-Fadi 
+
+<b>Fadi</b>
+
 -	Start on algorithm? Research  maximizing algorithms?
-Garrett
+
+<b>Garrett</b>
+
 –	Start working on GUI prototype #2
 
 #Week 3
