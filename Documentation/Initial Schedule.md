@@ -66,6 +66,7 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 #Week 4
 <b>ALL</b>
+
 1.	Select best GUI design choices and send email to Jeff for approval/ suggestions.
 2.	Start working on main program.
 
