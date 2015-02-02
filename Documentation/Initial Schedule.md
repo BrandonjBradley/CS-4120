@@ -168,8 +168,8 @@ Garrett
 #Week 9
 <b>ALL</b>
 
-- Have prototype or final done
-- Start lessons learned if we haven’t already.
+1. Have prototype or final done
+2. Start lessons learned if we haven’t already.
 
 Carl 
 Brian 
