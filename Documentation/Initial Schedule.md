@@ -161,7 +161,7 @@ Garrett
 
 <b>Carl</b>
 
-– Finish testing of application
+- Finish testing of application
 
 <b>Brian</b>
 
