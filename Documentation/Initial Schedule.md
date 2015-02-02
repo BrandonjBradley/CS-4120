@@ -14,8 +14,7 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 #Week 2
 <b>ALL</b>:
-
-Start on requirements document
+-Start on requirements document
 
 CARL:
 
