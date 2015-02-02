@@ -165,7 +165,7 @@ Garrett
 
 <b>Brian</b>
 
-– Help where needed
+- Help where needed
 - Coding
 - Testing
 
