@@ -4,8 +4,9 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 #Week 1
 -	Create schedule
--	Make Github accounts
--	Contact advisor for algorithm rules clarification, and for which version of Microsoft office we must support.
+-	Create a GitHub repsitory, add collaborators, and make a first commit
+-	Contact advisor:
+-		for algorithm rules clarification, and for which version of Microsoft office we must support.
 -	Install VB
 
 #Week 2
