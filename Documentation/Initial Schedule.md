@@ -40,9 +40,9 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 #Week 3
 <b>ALL</b>
 
-1.	Finish requirements document
-2.	Job update Excel sheet
-3.	Applicant Excel sheet
+1. Finish requirements document
+2. Job update Excel sheet
+3. Applicant Excel sheet
 
 <b>Carl</b>
 
@@ -94,30 +94,48 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 <b>ALL</b>
 
 - Start on requirements document
-Carl 
-–	 Finalize Test Plan
-Brian 
-–	Finish Use case Scenarios
-Brandon
--	start on algorithm?
-Fadi 
--	start on algorithm?
-Garrett
-–	start on GUI for input
+
+<b>Carl</b> 
+– Finalize Test Plan
+
+<b>Brian</b>
+– Finish Use case Scenarios
+
+<b>Brandon</b>
+- start on algorithm?
+
+<b>Fadi</b>
+
+- start on algorithm?
+
+<b>Garrett</b>
+
+– start on GUI for input
 
 #Week 6
-All
--	Start on requirements document
-Carl 
-–	 Start testing of application
-Brian 
-–	Help where needed. Coding, testing... etc
-Brandon
--	start on algorithm?
-Fadi 
--	start on algorithm?
-Garrett
-–	start on GUI for input
+<b>ALL</b>
+
+- Start on requirements document
+
+<b>Carl</b>
+
+– Start testing of application
+
+<b>Brian</b>
+
+– Help where needed. Coding, testing... etc
+
+<b>Brandon</b>
+
+- start on algorithm?
+
+<b>Fadi</b>
+
+- start on algorithm?
+
+<b>Garrett</b>
+
+– start on GUI for input
 
 #Week 7
 All
