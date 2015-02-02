@@ -157,15 +157,15 @@ Garrett
 #Week 8
 <b>ALL</b>
 
--	Start on requirements document
+- Start on requirements document
 
 <b>Carl</b>
 
-–	 Finish testing of application
+– Finish testing of application
 
 <b>Brian</b>
 
-–	Help where needed. Coding, testing... etc
+– Help where needed. Coding, testing... etc
 
 <b>Brandon</b>
 
