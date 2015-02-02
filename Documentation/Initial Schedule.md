@@ -1,8 +1,8 @@
 #Week 1
 1.	Create schedule
 2.	Create a GitHub repsitory
- -	add collaborators
- -	make a first commit
+ -	Add collaborators
+ -	Make a first commit
 3.	Contact advisor
  -	Ask for algorithm rules clarification
  -	Investigate which version(s) of Microsoft office must be supported
@@ -54,7 +54,8 @@
 
 <b>Fadi</b> 
 
-- Research algorithms for similar, previously solved, problems.
+- Algorithm research
+ - Focus on similar, previously solved, problems
 
 <b>Garrett</b>
 
@@ -84,7 +85,7 @@
 
 <b>Garrett</b>
 
-- start on GUI for input
+- Start on GUI for input
 
 #Week 5
 <b>ALL</b>
@@ -109,7 +110,7 @@
 
 <b>Garrett</b>
 
-- start on GUI for input
+- Start on GUI for input
 
 #Week 6
 <b>ALL</b>
