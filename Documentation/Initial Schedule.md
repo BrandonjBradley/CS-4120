@@ -35,7 +35,7 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 
 <b>Garrett</b>
 
-- Start working on GUI prototype 2
+- Start working on GUI prototype \#2
 
 #Week 3
 <b>ALL</b>
