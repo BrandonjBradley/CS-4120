@@ -15,27 +15,27 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 #Week 2
 <b>ALL</b>
 
--	Start on requirements document
+- Start on requirements document
 
 <b>CARL</b>:
 
--	Start on test plan
+- Start on test plan
 
 <b>Brian</b> 
 
--	Start working on GUI prototype #1
+- Start working on GUI prototype #1
 
 <b>Brandon</b>
 
--	Start on algorithm? Research  maximizing algorithms?
+- Start on algorithm? Research  maximizing algorithms?
 
 <b>Fadi</b>
 
--	Start on algorithm? Research  maximizing algorithms?
+- Start on algorithm? Research  maximizing algorithms?
 
 <b>Garrett</b>
 
-–	Start working on GUI prototype #2
+– Start working on GUI prototype #2
 
 #Week 3
 <b>ALL</b>
