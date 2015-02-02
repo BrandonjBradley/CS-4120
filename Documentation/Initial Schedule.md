@@ -64,7 +64,7 @@
 #Week 4
 <b>ALL</b>
 
-1.	Select best GUI design choices and send email to Jeff for approval/ suggestions.
+1.	Select best GUI design choices and send email to Jeff for approval/suggestions.
 2.	Start working on main program.
 
 <b>Carl</b>
