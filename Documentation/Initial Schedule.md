@@ -155,26 +155,28 @@ Garrett
 –	start on GUI for input
 
 #Week 8
-All
+<b>ALL</b>
+
 -	Start on requirements document
-Carl 
+
+<b>Carl</b>
+
 –	 Finish testing of application
-Brian 
+
+<b>Brian</b>
+
 –	Help where needed. Coding, testing... etc
-Brandon
-Fadi 
-Garrett
+
+<b>Brandon</b>
+
+<b>Fadi</b>
+
+<b>Garrett</b>
 
 #Week 9
 <b>ALL</b>
 
 1. Have prototype or final done
-2. Start lessons learned if we haven’t already.
-
-Carl 
-Brian 
-Brandon
-Fadi 
-Garrett
+2. Start lessons learned, if we haven’t already.
 
 > Note: Week doesn’t look like a real word anymore. 
