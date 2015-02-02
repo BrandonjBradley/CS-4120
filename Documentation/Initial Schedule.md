@@ -148,7 +148,7 @@
 
 <b>Brian</b>
 
-– Help where needed (Coding and/or testing)
+- Help where needed (Coding and/or testing)
 
 <b>Brandon</b>
 
@@ -160,7 +160,7 @@
 
 <b>Garrett</b>
 
-– start on GUI for input
+- Start on GUI for input
 
 #Week 8
 <b>ALL</b>
@@ -178,7 +178,7 @@
 <b>Brandon</b>
 
 - TBD
-- 
+
 <b>Fadi</b>
 
 1. Fix all the bugs found
