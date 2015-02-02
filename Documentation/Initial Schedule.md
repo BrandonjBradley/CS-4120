@@ -141,18 +141,30 @@ Note2: I think having a prototype of at least the GUI by week 4 or 5 would be a 
 – start on GUI for input
 
 #Week 7
-All
--	Start on requirements document
-Carl 
-–	 Testing of Application
-Brian 
-–	Help where needed. Coding, testing... etc
-Brandon
+
+<b>ALL</b>
+
+- Start on requirements document
+
+<b>Carl</b>
+
+- Testing of Application
+
+<b>Brian</b>
+
+– Help where needed. Coding, testing... etc
+
+<b>Brandon</b>
+
 -	start on algorithm?
-Fadi 
+
+<b>Fadi</b>
+
 -	start on algorithm?
-Garrett
-–	start on GUI for input
+
+<b>Garrett</b>
+
+– start on GUI for input
 
 #Week 8
 <b>ALL</b>
