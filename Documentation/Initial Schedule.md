@@ -134,7 +134,7 @@
 
 <b>Garrett</b>
 
-– start on GUI for input
+- Start on GUI for input
 
 #Week 7
 
